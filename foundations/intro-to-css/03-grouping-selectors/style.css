@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.unique {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.diff1 {
+    background-color: black;
+    color: white;
+}
+
+.diff2 {
+    background-color: yellow;
+}
